@@ -1,0 +1,151 @@
+{"frames": {
+
+"bullet.png":
+{
+	"frame": {"x":1,"y":1,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"explosion-1.png":
+{
+	"frame": {"x":38,"y":1,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"explosion-2.png":
+{
+	"frame": {"x":75,"y":1,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"explosion-3.png":
+{
+	"frame": {"x":1,"y":38,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"hay-damaged-2.png":
+{
+	"frame": {"x":38,"y":38,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"hay-damaged.png":
+{
+	"frame": {"x":75,"y":38,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"hay.png":
+{
+	"frame": {"x":1,"y":75,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"spawn-blink-1.png":
+{
+	"frame": {"x":38,"y":75,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"spawn-blink-2.png":
+{
+	"frame": {"x":75,"y":75,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"spawn-blink-3.png":
+{
+	"frame": {"x":1,"y":112,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"spawn-blink-4.png":
+{
+	"frame": {"x":38,"y":112,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"tank-blue.png":
+{
+	"frame": {"x":75,"y":112,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"tank-green.png":
+{
+	"frame": {"x":1,"y":149,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"tank-red.png":
+{
+	"frame": {"x":38,"y":149,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"wall.png":
+{
+	"frame": {"x":75,"y":149,"w":35,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":35},
+	"sourceSize": {"w":35,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"explosion": ["explosion-1.png","explosion-2.png","explosion-3.png"],
+	"spawn-blink": ["spawn-blink-1.png","spawn-blink-2.png","spawn-blink-3.png","spawn-blink-4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "tankgame-tiles.png",
+	"format": "RGBA8888",
+	"size": {"w":111,"h":185},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8842cacf33480d1443447a85883f79e4:6f26f94e46ffd51b18e062c4fdb985df:e27d4788dd5c3ab3797f0d206fb263dc$"
+}
+}
