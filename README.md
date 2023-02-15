@@ -1,4 +1,4 @@
-## Pixi.js Game
+## Pixi.js TypeScript TankGame
 
 ![Pixi.js Game](./static/tankgame-tiles.png)
 
