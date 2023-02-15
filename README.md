@@ -28,4 +28,5 @@ How to run the app:
 
 1. Clone the project
 2. Install the dependencies with npm (`npm install`)
-3. Run the project with script (`npm run start`)
+3.a Run the project with script (`npm run start`)
+3.b Alternatively, you can `npm run build` and host the game on web (or open browser with --allow-file-access-from-files). Otherwise you will get CORS Error.
