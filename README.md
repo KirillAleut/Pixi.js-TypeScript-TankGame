@@ -27,6 +27,6 @@ To control the tanks, you can use the following keys:
 How to run the app:
 
 1. Clone the project
-2. Install the dependencies with npm (`npm install`)
-3. Run the project with script (`npm run start`)
-(Alternatively, you can `npm run build` and host the game on web (or open browser with --allow-file-access-from-files). Otherwise you will get CORS Error.)
+2. Install the dependencies with `npm install`
+3. Run the project with script `npm run start`
+(Alternatively, you can `npm run build` and host the build version of game on web (or open browser with --allow-file-access-from-files). Otherwise you will get CORS Error.)
