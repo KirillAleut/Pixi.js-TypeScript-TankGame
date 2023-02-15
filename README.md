@@ -29,4 +29,4 @@ How to run the app:
 1. Clone the project
 2. Install the dependencies with `npm install`
 3. Run the project with script `npm run start`
-(Alternatively, you can `npm run build` and host the build version of game on web (or open browser with --allow-file-access-from-files). Otherwise you will get CORS Error.)
+(Alternatively, you can `npm run build` and host the build version of game on web (or open in browser with --allow-file-access-from-files). Otherwise you will get CORS Error.)
