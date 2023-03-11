@@ -4,7 +4,7 @@
 
 ### About the project
 
-This Pixi.js and TypeScript game about tanks is a test task for an amazing job application.
+This Pixi.js and TypeScript game about tanks is a test task for the job application.
 
 The game features a map of 50 x 50 blocks (1 block = 35px x 35px) populated with 25 hays and 50 walls. Hays have 100 health but are destructible, while the walls are indestructible. Players take control of one of three tanks (Red, Blue, Green) which can move and rotate using keyboard inputs and shoot bullets. Each tank fires a different number of bullets with different damage - red fires 2 bullets with 10 damage, blue fires 3 bullets with 20 damage and green fires 1 bullet with 25 damage. Players can change the tank they control at any time during the game by pressing 'T' on the keyboard.
 
